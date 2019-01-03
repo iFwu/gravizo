@@ -59,7 +59,7 @@ This allows to include your graphs in the README and is still readable in a norm
 
 **SVG output** it's ready. Only need to replace https://g.gravizo.com/g? by https://g.gravizo.com/svg? and https://g.gravizo.com/source? by https://g.gravizo.com/source/svg?
 
-![Alt text](https://g.gravizo.com/source/svg/custom_mark12?https%3A%2F%2Fraw.githubusercontent.com%2iFwu%2Fgravizo%2Fmaster%2FREADME.md?3)
+![Alt text](https://g.gravizo.com/source/svg/custom_mark12?https%3A%2F%2Fraw.githubusercontent.com%2FiFwu%2Fgravizo%2Fmaster%2FREADME.md)
 
 <details> 
 <summary></summary>
@@ -126,7 +126,7 @@ custom_mark12
 
 A sequence diagram. Note that you need to include `;` at the end of each line:
 
-![Alt text](https://g.gravizo.com/source/custom_mark13?https%3A%2F%2Fraw.githubusercontent.com%2iFwu%2Fgravizo%2Fmaster%2FREADME.md?1)
+![Alt text](https://g.gravizo.com/source/custom_mark13?https%3A%2F%2Fraw.githubusercontent.com%2FiFwu%2Fgravizo%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
 custom_mark13
@@ -180,7 +180,7 @@ custom_mark13
 
 An activity diagram. Note that you need to include `;` at the end of each line:
 
-![Alt text](https://g.gravizo.com/source/custom_activity?https%3A%2F%2Fraw.githubusercontent.com%2iFwu%2Fgravizo%2Fmaster%2FREADME.md?1)
+![Alt text](https://g.gravizo.com/source/custom_activity?https%3A%2F%2Fraw.githubusercontent.com%2FiFwu%2Fgravizo%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
 custom_activity
@@ -240,7 +240,7 @@ custom_activity
 
 Now also suports SVG in JSON format:
 
-![Alt text](https://g.gravizo.com/source/custom_svg?https%3A%2F%2Fraw.githubusercontent.com%2iFwu%2Fgravizo%2Fmaster%2FREADME.md?1)
+![Alt text](https://g.gravizo.com/source/custom_svg?https%3A%2F%2Fraw.githubusercontent.com%2FiFwu%2Fgravizo%2Fmaster%2FREADME.md)
 
 <details> 
 <summary></summary>
